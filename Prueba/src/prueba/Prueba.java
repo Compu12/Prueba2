@@ -18,6 +18,7 @@ public class Prueba {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "hola");
+        //hola q tal ing como esta jaj 
     }
     
 }
